@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-label="Olist SSIS Medallion Data Warehouse">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0F766E"/>
+      <stop offset="0.55" stop-color="#134E4A"/>
+      <stop offset="1" stop-color="#1E3A8A"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="240" rx="24" fill="url(#g)"/>
+  <text x="60" y="88" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#99F6E4" letter-spacing="3">BRIGHTLEARN · DATA ENGINEERING</text>
+  <text x="60" y="142" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="48" font-weight="800" fill="#FFFFFF">Olist SSIS Medallion Data Warehouse</text>
+  <text x="60" y="184" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#E2E8F0">Bronze → Silver → Gold · Star schema · Re-runnable · snake_case</text>
+  <g transform="translate(60,200)">
+    <rect width="44" height="14" rx="7" fill="#CD7F32"/>
+    <rect x="52" width="44" height="14" rx="7" fill="#C0C0C0"/>
+    <rect x="104" width="44" height="14" rx="7" fill="#FFD700"/>
+  </g>
+</svg>
